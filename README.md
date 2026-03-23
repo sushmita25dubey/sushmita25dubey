@@ -69,4 +69,6 @@ Technology & Innovation
 ## 💭 Quote
 ✨ *"Code. Build. Improve. Repeat."* ✨
 ## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=sushmita25dubey&icon=0&color=5)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sushmita25dubey&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+</p>
