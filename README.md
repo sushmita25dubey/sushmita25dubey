@@ -3,7 +3,7 @@
 <h3 align="center">BTech CSE Student | MERN Stack | AI |DSA |</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;AI;Hackathon+Builder;Always+Learning+🚀&center=true&width=500&height=50">
 </p>
-# 💫 About Me:
+💫 About Me:
 
 🌱 I’m currently learning:  
 MERN Stack, Artificial Intelligence and Data Structures & Algorithms  
