@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushmita Dubey</h1>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=SUSHMITA%20DUBEY&fontColor=ffffff&fontSize=40" /></p>
-<h3 align="center">BTech CSE Student | MERN Stack | AI |DSA |</h3>
+<h3 align="center">BTech CSE Student | MERN Stack | AI | DSA |</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;AI;Hackathon+Builder;Always+Learning+🚀&center=true&width=500&height=50">
 </p>
 💫 About Me:
