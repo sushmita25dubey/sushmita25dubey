@@ -62,7 +62,7 @@ Technology & Innovation
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/sushmita25dubey/sushmita25dubey/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/sushmita25dubey/sushmita25dubey/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
