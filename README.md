@@ -14,6 +14,8 @@ Python, Web Development, AI Projects, Hackathons, and Student Tech Journey
 ⚡ Passionate about:  
 Technology & Innovation  
 
+📫 How to reach me:
+
 ---
 
 ## 🌐 Socials:
