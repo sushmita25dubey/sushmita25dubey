@@ -15,6 +15,7 @@ Python, Web Development, AI Projects, Hackathons, and Student Tech Journey
 Technology & Innovation  
 
 📫 How to reach me:
+sushmitadubey2502@gmail.com
 
 ---
 
