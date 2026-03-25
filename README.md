@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+I'm+Sushmita&center=true&size=35&color=FF00CC">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=👋+I'm+Sushmitadubey&center=true&size=35&color=FF00CC">
 </p>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=SUSHMITA%20DUBEY&fontColor=ffffff&fontSize=40" /></p>
 <h3 align="center">BTech CSE Student | MERN Stack | AI | DSA |</h3>
