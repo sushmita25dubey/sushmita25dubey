@@ -71,12 +71,6 @@ sushmitadubey2502@gmail.com
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sushmita25dubey)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 <h2 align="center">👀 Profile Views</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushmita25dubey&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
