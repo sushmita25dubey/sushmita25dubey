@@ -73,7 +73,7 @@ sushmitadubey2502@gmail.com
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-https://github-profile-trophy.vercel.app/?username=sushmita25dubey
+[![trophy](https://github-profile-trophy.vercel.app/?username=sushmita25dubey)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
