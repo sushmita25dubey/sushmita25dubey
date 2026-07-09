@@ -52,16 +52,28 @@ sushmitadubey2502@gmail.com
 
 ---
 
+<!-- ===================== GitHub Analytics ===================== -->
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushmita25dubey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushmita25dubey&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushmita25dubey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img
+    height="170"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sushmita25dubey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
+  />
+
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=sushmita25dubey&theme=tokyonight&hide_border=true"
+  />
 </p>
 
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sushmita25dubey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
+</p>
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>
