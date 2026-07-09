@@ -8,10 +8,10 @@
 💫 About Me:
 
 🌱 I’m currently learning:  
-MERN Stack, Artificial Intelligence and Data Structures & Algorithms  
+MERN Stack, Artificial Intelligence, and Data Structures & Algorithms  
 
 💬 Ask me about:  
-Python, Web Development, AI Projects, Hackathons, and Student Tech Journey  
+ Web Development, AI Projects, Hackathons, and Student Tech Journey  
 
 ⚡ Passionate about:  
 Technology & Innovation  
