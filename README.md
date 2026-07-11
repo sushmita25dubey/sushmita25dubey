@@ -17,7 +17,7 @@ MERN Stack, Artificial Intelligence, and Data Structures & Algorithms
 Technology & Innovation  
 
 📫 How to reach me:
-sushmitadubey2502@gmail.comhdhsjfgajdg
+sushmitadubey2502@gmail.com
 
 ---
 
