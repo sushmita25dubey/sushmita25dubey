@@ -57,10 +57,6 @@ sushmitadubey2502@gmail.com
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sushmita25dubey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
-  />
 
   <img
     height="170"
@@ -68,12 +64,7 @@ sushmitadubey2502@gmail.com
   />
 </p>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sushmita25dubey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-</p>
+
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>
