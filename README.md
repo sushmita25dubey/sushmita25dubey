@@ -56,6 +56,7 @@ sushmitadubey2502@gmail.com
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
+<div align="center">
 <p align="center">
 
   <img
@@ -63,7 +64,7 @@ sushmitadubey2502@gmail.com
     src="https://streak-stats.demolab.com?user=sushmita25dubey&theme=tokyonight&hide_border=true"
   />
 </p>
-
+</div>
 
 ---
 
